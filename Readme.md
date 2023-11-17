@@ -18,6 +18,6 @@ Terdapat pemisahan file ke dalam beberapa folder guna mempermudah pembagian apli
 3. views/register.php
 4. config/LoginController.php
 5. views/login.php
-6. views/dashboard.php
+6. views/home.php
 7. config/LogoutController.php
 
