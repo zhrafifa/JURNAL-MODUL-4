@@ -2,7 +2,7 @@
 
 ### Deskripsi
 
-Halo semuanya, pada jurnal kali ini kalian diwajibkan untuk membuat sebuah Login Management System menggunakan bahasa PHP dengan database Mysql
+Halo semuanya, pada jurnal kali ini kalian diwajibkan untuk membuat sebuah Login Management System menggunakan bahasa PHP dengan database Mysql.
 
 ### Struktur Aplikasi
 
