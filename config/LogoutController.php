@@ -1,12 +1,16 @@
 <?php 
-// Memulai session
+// (1) Mulai session
 session_start();
+//
 
-// Menghapus seluruh session yang berlangsung
+// (2) Hapus semua session yang berlangsung
 session_destroy();
+//
 
-// Redirect ke halaman login awal
+// (3) Lakukan redirect ke halaman login awal
 header('Location: ../views/login.php');
+//
+
 exit;
 
 ?>
