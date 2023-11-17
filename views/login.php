@@ -37,12 +37,10 @@ if (isset($_SESSION['login'])) {
                         </div>
 
                         <!-- (1) Buat alert message menggunakan variabel session yang sudah dibuat -->
-                        <?php if(isset($_SESSION['message']) and isset($_SESSION['color'])){ ?>
-                        <div class="alert alert-<?= $_SESSION['color']?>" role="alert">
-                            <?= $_SESSION['message'] ?>
-                        </div>
-                        <?php unset($_SESSION['message']); } ?>
-                        <!-- --------------------------------- -->
+                        <!-- ----------  Letakkan Kode di bawah ini  ----------- -->
+
+                        
+                        <!-- **********************  (1)  ********************** -->
                         
                         <form method="post" action="">
                             <label for="email" class="fw-bold">Email</label>
