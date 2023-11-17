@@ -42,7 +42,7 @@ if(mysqli_num_rows($result) == 0) {
 
 // (5) Buat juga kondisi else untuk menampilkan pesan error karena data email sudah terdaftar
 } else {
-    $_SESSION['message'] = 'Username sudah terdaftar';
+    $_SESSION['message'] = 'Email sudah terdaftar';
     header('Location: ../views/register.php');
 }
 //

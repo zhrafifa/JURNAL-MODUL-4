@@ -13,7 +13,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST") {
 }
 
 if (isset($_SESSION['login'])) {
-    header("Location: dashboard.php");
+    header("Location: home.php");
 }
 
 ?>
