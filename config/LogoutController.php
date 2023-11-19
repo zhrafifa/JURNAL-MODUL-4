@@ -1,13 +1,18 @@
 <?php 
-// (1) Mulai session
+
+// (1) Hapus cookie dengan key id 
+
+// 
+
+// (2) Mulai session
 
 //
 
-// (2) Hapus semua session yang berlangsung
+// (3) Hapus semua session yang berlangsung
 
 //
 
-// (3) Lakukan redirect ke halaman login awal
+// (4) Lakukan redirect ke halaman login awal
 
 //
 
